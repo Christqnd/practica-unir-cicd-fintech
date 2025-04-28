@@ -1,10 +1,18 @@
 # Repo para EIEC - DevOps - UNIR
 
-Este repositorio nos servirá para demostrar el uso de Git en la asignatura de EIEC y muchas cosas mas.
+Este repositorio servirá para demostrar el uso de Git, GitHub y los flujos de trabajo colaborativos mediante Pull Requests en la asignatura de EIEC (UNIR).  
+
+El proyecto consiste en ordenar una lista de palabras desde un archivo de texto, con opciones para eliminar duplicados y definir el orden de la lista.
+
+> **Nota:** Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o utilizar una máquina virtual Linux.
 
 ---
 
-Los comandos del Makefile funcionarán en Linux y MacOS. En caso de usar Windows, necesitarás adaptarlos o ejecutarlos en una máquina virtual Linux.
+## 📂 Estructura del proyecto
+- main.py
+- Makefile
+- README.md
+- words.txt
 
 ## Ejecución
 
